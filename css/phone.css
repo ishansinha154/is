@@ -64,7 +64,6 @@
 }
 
 .last {
-    border: 2px solid red;
     display: flex;
     justify-content: left;
     margin-left: 42.2rem;
