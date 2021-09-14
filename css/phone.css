@@ -1,0 +1,76 @@
+#navbar {
+    width: 93.2pc;
+}
+
+.whole {
+    left: 49pc;
+}
+
+#home::before {
+    width: 40pc;
+    height: 48pc;
+}
+
+#services {
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: #8b8686;
+}
+
+#resume .primary {
+    margin-left: 37.2em;
+}
+
+#resume .primary p {
+    font-size: 22px;
+}
+
+.resumeitemrow h3 {
+    font-size: 40px;
+}
+
+.skills {
+    background-color: #8b8686;
+}
+
+#mycollege {
+    flex-direction: column;
+}
+
+#colg-sec1 {
+    margin-left: 24.2em;
+    text-align: center;
+}
+
+#colg-sec2 {
+    width: 44.2rem;
+    height: 57.2rem;
+    /* margin-bottom: 195px; */
+    margin-top: 10px;
+    margin-left: 397px;
+}
+
+.cont-head {
+    margin-top: 167px;
+}
+
+#mycollege .take-tour {
+    margin-top: -30px;
+}
+
+.take-tour h2 {
+    margin-bottom: 43px;
+    font-size: 4.2rem;
+}
+
+.last {
+    border: 2px solid red;
+    display: flex;
+    justify-content: left;
+    margin-left: 42.2rem;
+    width: 40.2em;
+}
+
+#mycontact {
+    background-color: #8b8686;
+}
