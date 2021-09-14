@@ -10,6 +10,9 @@
     width: 40pc;
     height: 48pc;
 }
+#home button {
+    font-size: 16px;
+}
 
 #services {
     flex-wrap: wrap;
@@ -51,7 +54,7 @@
 }
 
 .cont-head {
-    margin-top: 167px;
+    margin-top: 278px;
 }
 
 #mycollege .take-tour {
